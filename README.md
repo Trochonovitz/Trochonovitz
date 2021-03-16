@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mateusz Trochonowicz
+- 👀 I’m interested in front-end technologies & video games.
+- 🌱 I’m currently learning MERN stack.
+- 💞️ I’m looking to collaborate on front-end challenges.
+- 📫 How to reach me: m.trochonowicz@protonmail.com
